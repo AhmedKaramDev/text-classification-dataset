@@ -1,4 +1,2 @@
 # text-classification-dataset
-# text-classification-data
-# text-classification-data
-# text-classification-data
+I use these datasets in classification problems in my workshops 
